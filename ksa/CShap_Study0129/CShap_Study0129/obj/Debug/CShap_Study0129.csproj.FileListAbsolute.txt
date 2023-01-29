@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\C-sua\ksa\CShap_Study0129\CShap_Study0129\bin\Debug\CShap_Study0129.exe.config
+C:\Users\admin\Documents\C-sua\ksa\CShap_Study0129\CShap_Study0129\bin\Debug\CShap_Study0129.exe
+C:\Users\admin\Documents\C-sua\ksa\CShap_Study0129\CShap_Study0129\bin\Debug\CShap_Study0129.pdb
+C:\Users\admin\Documents\C-sua\ksa\CShap_Study0129\CShap_Study0129\obj\Debug\CShap_Study0129.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\C-sua\ksa\CShap_Study0129\CShap_Study0129\obj\Debug\CShap_Study0129.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\C-sua\ksa\CShap_Study0129\CShap_Study0129\obj\Debug\CShap_Study0129.exe
+C:\Users\admin\Documents\C-sua\ksa\CShap_Study0129\CShap_Study0129\obj\Debug\CShap_Study0129.pdb
