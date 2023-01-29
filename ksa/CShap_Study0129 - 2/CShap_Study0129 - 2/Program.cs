@@ -18,6 +18,27 @@ namespace CShap_Study0129___2
             //숫자를 입력받았을때 음식을 출력하고
 
             //비어있게 되어있다라는 결과 값도 출력하라
+            string A;
+            string[] food = new string[4] { "떡볶이", "김밥", "라면", "라뽁이" };
+            System.Console.WriteLine(food[0]);
+            System.Console.WriteLine(food[1]);
+            System.Console.WriteLine(food[2]);
+            System.Console.WriteLine(food[3]);
+
+            System.Console.WriteLine("없앨 음식은?");
+            A = System.Console.ReadLine();
+            int Aa = Convert.ToInt32(A);
+            
+            System.Console.Write("없앨 음식:");
+            System.Console.WriteLine(food[Aa]);
+
+            food[Aa] = " ";
+
+            System.Console.WriteLine(food[0]);
+            System.Console.WriteLine(food[1]);
+            System.Console.WriteLine(food[2]);
+            System.Console.WriteLine(food[3]);
+
         }
     }
 }
