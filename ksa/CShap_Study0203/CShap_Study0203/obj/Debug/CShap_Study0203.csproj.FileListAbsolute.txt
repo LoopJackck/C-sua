@@ -1,0 +1,7 @@
+C:\Users\su\Desktop\C#\C-sua\ksa\CShap_Study0203\CShap_Study0203\bin\Debug\CShap_Study0203.exe.config
+C:\Users\su\Desktop\C#\C-sua\ksa\CShap_Study0203\CShap_Study0203\bin\Debug\CShap_Study0203.exe
+C:\Users\su\Desktop\C#\C-sua\ksa\CShap_Study0203\CShap_Study0203\bin\Debug\CShap_Study0203.pdb
+C:\Users\su\Desktop\C#\C-sua\ksa\CShap_Study0203\CShap_Study0203\obj\Debug\CShap_Study0203.csproj.AssemblyReference.cache
+C:\Users\su\Desktop\C#\C-sua\ksa\CShap_Study0203\CShap_Study0203\obj\Debug\CShap_Study0203.csproj.CoreCompileInputs.cache
+C:\Users\su\Desktop\C#\C-sua\ksa\CShap_Study0203\CShap_Study0203\obj\Debug\CShap_Study0203.exe
+C:\Users\su\Desktop\C#\C-sua\ksa\CShap_Study0203\CShap_Study0203\obj\Debug\CShap_Study0203.pdb
