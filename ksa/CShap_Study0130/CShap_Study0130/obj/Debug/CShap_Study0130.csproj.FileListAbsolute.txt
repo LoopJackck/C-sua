@@ -1,0 +1,7 @@
+C:\Users\su\Desktop\C#\C-sua\ksa\CShap_Study0129 - 2\CShap_Study0130\CShap_Study0130\bin\Debug\CShap_Study0130.exe.config
+C:\Users\su\Desktop\C#\C-sua\ksa\CShap_Study0129 - 2\CShap_Study0130\CShap_Study0130\bin\Debug\CShap_Study0130.exe
+C:\Users\su\Desktop\C#\C-sua\ksa\CShap_Study0129 - 2\CShap_Study0130\CShap_Study0130\bin\Debug\CShap_Study0130.pdb
+C:\Users\su\Desktop\C#\C-sua\ksa\CShap_Study0129 - 2\CShap_Study0130\CShap_Study0130\obj\Debug\CShap_Study0130.csproj.AssemblyReference.cache
+C:\Users\su\Desktop\C#\C-sua\ksa\CShap_Study0129 - 2\CShap_Study0130\CShap_Study0130\obj\Debug\CShap_Study0130.csproj.CoreCompileInputs.cache
+C:\Users\su\Desktop\C#\C-sua\ksa\CShap_Study0129 - 2\CShap_Study0130\CShap_Study0130\obj\Debug\CShap_Study0130.exe
+C:\Users\su\Desktop\C#\C-sua\ksa\CShap_Study0129 - 2\CShap_Study0130\CShap_Study0130\obj\Debug\CShap_Study0130.pdb
