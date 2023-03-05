@@ -48,9 +48,12 @@
 
 ## 6. 게임 플레이 사진
 ![image](https://user-images.githubusercontent.com/123847833/222948326-5e96e29b-f57c-4feb-b114-b6f46ba7eff1.png)
+프롤로그
 ![image](https://user-images.githubusercontent.com/123847833/222948336-97ceefd6-2ec8-4a4c-a5d5-63a866bb73f2.png)
+게임 메뉴창
 ![image](https://user-images.githubusercontent.com/123847833/222948405-46db7cce-6a48-4c6e-b7da-b699a8f3522c.png)
+선택지창
 ![image](https://user-images.githubusercontent.com/123847833/222948422-af255067-6a69-463f-a557-161d64e55174.png)
-
+전투시
 
 
