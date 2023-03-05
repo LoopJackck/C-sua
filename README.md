@@ -9,6 +9,7 @@
 ### 3. 기술 스택
 ### 4. 과정
 ### 5. 느낀점
+### 6. 게임 플레이 사진
 
 ## 1. 게임 소개
 : UnderTale이라는 게임을 콘솔 게임이라 가정하고 만든 게임이다.
@@ -30,6 +31,7 @@
 - Console.Clear();를 사용하여 콘솔창이 바뀌는 것처럼 연출하였다.
 - class Monster : Story에서 Monster가 Story의 변수를 사용해야하기에 ':'를 사용했다.
 - 변수를 WriteLine에 사용해야해서 '$'를 사용했다. 
+
 ## 4. 과정
 - 뒤죽 박죽으로 내가 알아볼 수 없을 코드를 만들어내서 #region으로 다시 정리 하였다. 
 - goto문을 썼다가 다시 갈아 엎었다.
@@ -43,3 +45,12 @@
 - 사실 class가 이해가 잘 안됬었는데 직접 게임을 만들면서 완전히 내 것으로 만든 느낌이었다.
 - ref라는 걸 사용하는 방법 또한 알 수 있었다.
 - 이번에 언더테일을 끝까지 만들지 못해 아쉬웠다. 지금은 고3이라 시간이 없어 만들진 못하지만 시간적 여유가 있을 때 엔딩까지 만들어 보고싶다.
+
+## 6. 게임 플레이 사진
+![image](https://user-images.githubusercontent.com/123847833/222948326-5e96e29b-f57c-4feb-b114-b6f46ba7eff1.png)
+![image](https://user-images.githubusercontent.com/123847833/222948336-97ceefd6-2ec8-4a4c-a5d5-63a866bb73f2.png)
+![image](https://user-images.githubusercontent.com/123847833/222948405-46db7cce-6a48-4c6e-b7da-b699a8f3522c.png)
+![image](https://user-images.githubusercontent.com/123847833/222948422-af255067-6a69-463f-a557-161d64e55174.png)
+
+
+
